@@ -3,7 +3,7 @@
 # Hello World
 
 ### Computer Engineering Student from USF
-##A.A in Computer & Information Science
+A.A in Computer & Information Science
 #### Building APIs, backend systems and clean solutions.
 
 [![Open Source](https://img.shields.io/badge/Open%20to%20work-green?style=flat-square)](#)
