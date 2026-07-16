@@ -2,12 +2,12 @@
 
 # Hello World
 
-### Backend Developer from Peru 🇵🇪
+### Computer Engineering Student from USF
+##A.A in Computer & Information Science
 #### Building APIs, backend systems and clean solutions.
 
 [![Open Source](https://img.shields.io/badge/Open%20to%20work-green?style=flat-square)](#)
 [![Tech Stack](https://img.shields.io/badge/Java%20%7C%20Spring%20Boot-Backend-red?style=flat-square)](#)
-[![OS](https://img.shields.io/badge/%EF%B1%99%20Arch%20Linux-user-darkred?style=flat-square)](#)
 
 <!-- PAC-MAN GRAPHICS -->
 <picture>
@@ -22,7 +22,7 @@
 
 ## About me
 
-> **Backend developer** focused on building APIs, scalable systems and improving software architecture.
+> **Computer Engineering Student** at the University of South Florida, focused on building APIs, scalable systems and improving software architecture.
 >
 > **Currently working with:**
 > * Java
@@ -30,15 +30,13 @@
 > * PostgreSQL
 > * React
 > * Docker
-> 
-> **Environment:**
-> * Arch Linux + Hyprland
+> * github
 
 <br />
 
 <div align="center">
-  <!-- Tech Stack Icons -->
+  <!-- Tech Stack Icons (Linux & Arch icons removed) -->
   <img src="https://skillicons.dev/icons?i=java,spring,postgres" />
   <br />
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,docker,git,linux,arch" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,docker,git" />
 </div>
