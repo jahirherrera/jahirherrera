@@ -8,6 +8,7 @@ A.A in Computer & Information Science
 
 [![Open Source](https://img.shields.io/badge/Open%20to%20work-green?style=flat-square)](#)
 [![Tech Stack](https://img.shields.io/badge/Java%20%7C%20Spring%20Boot-Backend-red?style=flat-square)](#)
+[![Frontend Stack](https://img.shields.io/badge/TypeScript%20%7C%20React-Frontend-blue?style=flat-square)](#)
 
 <!-- PAC-MAN GRAPHICS -->
 <picture>
